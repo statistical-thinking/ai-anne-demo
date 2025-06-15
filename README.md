@@ -7,6 +7,6 @@ This demo of (A) (N)eural (N)et for (E)xploration shows how students can measure
 Prof. Dr. habil. Dennis Klinkhammer
 
 # Anleitung
-Handouts for the participants and Jupyter Notebooks (*.ipypn*) are available for each application example. Simply double-click on the corresponding Jupyter notebook and have all cells executed (*Restart Kernel and Run All Cells...*), done!
+Handouts for the participants and Jupyter Notebooks (*.ipypn*) are available for each application example. Simply double-click on the corresponding Jupyter Notebook and have all cells executed (*Restart Kernel and Run All Cells...*), done!
 
 ![title](images/instructions.png)

@@ -10,6 +10,3 @@ Prof. Dr. habil. Dennis Klinkhammer
 Zu jedem Anwendungsbeispiel stehen Handouts für die Teilnehmerinnen und Teilnehmer sowie Jupyter Notebooks (.ipypn) bereit. Das entsprechende Jupyter Notebook einfach über einen Doppelklick aufrufen und alle Zellen ausführen lassen (*Restart Kernel and Run All Cells...*), fertig!
 
 ![title](images/instructions.png)
-
-# Requirements
-MicroPython

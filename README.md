@@ -7,7 +7,7 @@ This demo of (A) (N)eural (N)et for (E)xploration shows how students can measure
 Prof. Dr. habil. Dennis Klinkhammer
 
 # Anleitung
-Zu jedem Anwendungsbeispiel stehen Handouts für die Teilnehmerinnen und Teilnehmer sowie Jupyter Notebooks (.ipypn) bereit. Das entsprechende Jupyter Notebook einfach über einen Doppelklick aufrufen und alle Zellen ausführen lassen, fertig!
+Zu jedem Anwendungsbeispiel stehen Handouts für die Teilnehmerinnen und Teilnehmer sowie Jupyter Notebooks (.ipypn) bereit. Das entsprechende Jupyter Notebook einfach über einen Doppelklick aufrufen und alle Zellen ausführen lassen (*Restart Kernel and Run All Cells...*), fertig!
 
 ![title](images/instructions.png)
 
